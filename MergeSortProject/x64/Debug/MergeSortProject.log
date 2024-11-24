@@ -1,0 +1,6 @@
+﻿  main.cpp
+  MergeSort.cpp
+  test.cpp
+C:\Users\Администратор\source\repos\MergeSortProject\MergeSortProject\MergeSort.cpp(6,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  MergeSortProject.vcxproj -> C:\Users\Администратор\source\repos\MergeSortProject\x64\Debug\MergeSortProject.exe
